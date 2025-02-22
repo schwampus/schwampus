@@ -1,8 +1,9 @@
 ## Hi there 👋
 My name is Hampus, and I'm studying webdevelopment with a focus on JS in Gothenburg, Sweden. 
+Right now I'm on the lookout for an internship as a developer starting in the fall of 2025. 
 
 
-- 🌱 I’m currently learning Javascript and some other fun stuff in the Fullstack realm of webdev. 
+- 🌱 I’m studying Javascript and some other fun stuff in the Fullstack realm of webdev. 
 <!--
 **schwampus/schwampus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
