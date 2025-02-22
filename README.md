@@ -11,6 +11,7 @@ Prior to my coding journey I studied Digital Design and spent some years working
 
 
 ![test](./assets/name.png)
+![test](./assets/tinywoop.gif)
 
 <!--
 **schwampus/schwampus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
