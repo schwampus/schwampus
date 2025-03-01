@@ -7,12 +7,12 @@
   </ul>
 </div>
 
-I'm a fullstack student with a focus on JavaScript at IT-Högskolan in Gothenburg, Sweden. 
- 
+Currently a student at IT-Högskolan in Gothenburg, Sweden learning WebDev with a focus on <b>JavaScript</b> . 
+
 Prior to my coding journey I had Graphic Design and Photo/Video as one of my biggest hobbies which led me to study Digital Design at YRGO. After that I worked a couple of years in Video Production at two different agencies here in Gothenburg.
 I was an Editor / Motion Designer / Colorist the days spent at the office, out on set I was a First AC, Drone Pilot and of course also a Camera Operator. 
 
-Now I'm combining all of my skillsets, a problem solver, creator of things & designer into one great package as a <b><font color='green'>FULLSTACK DEVELOPER.</font></b> 
+I am now combining all of my skillsets, a problem solver, creator of things & designer into one great package as a <b><font color='green'>FULLSTACK DEVELOPER.</font></b> 
 
 
 
