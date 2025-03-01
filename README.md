@@ -10,7 +10,8 @@ I'm a fullstack student with a focus on JavaScript at IT-Högskolan in Gothenbur
 Right now I'm on the lookout for an internship, starting in the fall of 2025. 
 
 
-Prior to my coding journey I spent many years doing Graphic Design and Photo/Video as a hobby which led me to study Digital Design at YRGO and then spent some years working in Video Production as an Editor / Motion Designer / Colorist. 
+Prior to my coding journey I spent many years doing Graphic Design and Photo/Video as a hobby which led me to study Digital Design at YRGO. After that I worked a couple of years in Video Production at two different agencies here in Gothenburg.
+I was Editor / Motion Designer / Colorist the days spent at the office, on set I was a First AC, Drone Pilot and of course also a Camera Operator. 
 
 
 
