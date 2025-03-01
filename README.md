@@ -1,9 +1,16 @@
-## Hi there, I'm Hampus 🤙
-I'm studying webdevelopment with a focus on JS in Gothenburg, Sweden. 
-Right now I'm on the lookout for an internship as a developer starting in the fall of 2025. 
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi there, I'm Hampus 🤙</h1>
+    </summary>
+  </ul>
+</div>
+
+I'm a fullstack student with a focus on JavaScript at IT-Högskolan in Gothenburg, Sweden. 
+Right now I'm on the lookout for an internship, starting in the fall of 2025. 
 
 
-Prior to my coding journey I studied Digital Design and spent some years working in Video Production as an Editor / Motion Designer / Colorist. 
+Prior to my coding journey I spent many years doing Graphic Design and Photo/Video as a hobby which led me to study Digital Design at YRGO and then spent some years working in Video Production as an Editor / Motion Designer / Colorist. 
 
 
 
@@ -13,7 +20,7 @@ Prior to my coding journey I studied Digital Design and spent some years working
 
 🎨 Design Stack:
 ---
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve%20-9999FF.svg?style=for-the-badge&logo=Davinci%20Resolve&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Capture One](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve%20-9999FF.svg?style=for-the-badge&logo=Davinci%20Resolve&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Capture One](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
