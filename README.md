@@ -29,7 +29,7 @@ Becoming a <b>FULLSTACK DEVELOPER</b> I get to combine all of my skillsets: a pr
 
 When I'm not on my computer I'm either outside running or maybe flying one of my FPV Drones. 
 
-![tinywoop](https://github.com/user-attachments/assets/9b02b58c-68fa-4ae4-ac7f-b40885c894d4)
+
 
 
 <!--
