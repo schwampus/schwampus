@@ -28,6 +28,7 @@ Becoming a <b>FULLSTACK DEVELOPER</b> I get to combine all of my skillsets: a pr
 ---
 
 When I'm not on my computer I'm either outside running or maybe flying one of my FPV Drones. 
+Click the thumbnail below to see some magical stuff from Norway last summer.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AF28tn8NRAw/0.jpg)](https://www.youtube.com/watch?v=AF28tn8NRAw)
 
