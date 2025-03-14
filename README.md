@@ -7,12 +7,13 @@
   </ul>
 </div>
 <br>
-<p>Currently a student at IT-Högskolan in Gothenburg, Sweden learning WebDev with a focus on <span style="color: yellow;"> <b>JavaScript</b></span> . </p>
+<p>Currently a student at IT-Högskolan in Gothenburg, Sweden learning WebDev with a focus on <b>JavaScript</b>. 
+Becoming a <b>FULLSTACK DEVELOPER</b> I get to combine all of my skillsets: a problem solver, creator of things & designer.</p>
 <p>
 Prior to my coding journey I had Graphic Design and Photo/Video as one of my biggest hobbies which led me to study Digital Design at YRGO. After that I worked a couple of years in Video Production at two different agencies here in Gothenburg. <br>
 I was an Editor / Motion Designer / Colorist the days spent at the office, out on set I was a First AC, Drone Pilot and of course also a Camera Operator. </p>
 
-Becoming a <b>FULLSTACK DEVELOPER</b> I get to combine all of my skillsets: a problem solver, creator of things & designer.
+
 
 
 
