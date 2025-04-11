@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi there, I'm Hampus 🤙</h1>
-      <p>Right now I'm on the lookout for an internship, starting in the fall of 2025.</p>
+      
     </summary>
   </ul>
 </div>
