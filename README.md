@@ -2,8 +2,7 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi there, I'm Hampus 🤙</h1>
-      
-    </summary>
+      </summary>
   </ul>
 </div>
 <br>
