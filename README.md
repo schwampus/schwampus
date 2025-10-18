@@ -8,12 +8,6 @@
 <br>
 <p>Currently a student at IT-Högskolan in Gothenburg, Sweden learning WebDev with a focus on <b>JavaScript</b>. <br>
 Becoming a <b>FULLSTACK DEVELOPER</b> I get to combine all of my skillsets: a problem solver, creator of things & designer.</p>
-<p>
-Prior to my coding journey I had Photo/Video & Graphic Design as my biggest hobbies which led me to study <b>Digital Design</b> at YRGO. After that I worked a couple of years in Video Production at two different agencies here in Gothenburg. <br>
-I was an Editor / Motion Designer / Colorist the days spent at the office, out on set I was a First AC, Drone Pilot and of course also a Camera Operator. </p>
-
-
-
 
 
 💻 Tech Stack <sub><sup>- this list is growing along side my studies<sup></sub>
